@@ -3,5 +3,5 @@
 <p>
 
 </p>
-<img width="1440" alt="mainPage" src="./readme-assent/2t.PNG">
+<img width="1440" alt="mainPage" src="./readme-assent/2e.PNG">
 <p>
